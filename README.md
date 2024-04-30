@@ -7,6 +7,10 @@
 - [Playlist](https://youtube.com/playlist?list=PLu4oc9P-ABcOXNOyoAvnMyUwn_kkiVA5B&si=6nQdTHW485QVvASw)
 - [Docs](https://doc.mapeditor.org/en/stable/)
 - [Godot 4 Export Doc](https://doc.mapeditor.org/en/stable/manual/export-tscn/)
-## Assets to choose from
-### Top Down
+## Games
+### 2D Platformer
+[Repo](https://github.com/TuinderJ/2d_platformer)
+### Top Down RPG
+[Repo](https://github.com/TuinderJ/top-down-rpg)
+#### Assets to choose from
 - [itch.io collection](https://itch.io/c/4333738/top-down-assets)
