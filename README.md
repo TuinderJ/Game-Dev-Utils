@@ -1,6 +1,7 @@
 # Game Dev Utils
 ## Random Links
 - [Tilemap Playlist](https://youtube.com/playlist?list=PLflAYKtRJ7dwtqA0FsZadrQGal8lWp-MM&si=5kzUkRpC9S6TBjYF)
+- [Pirate Software Site](https://develop.games/)
 ## Tiled
 ![Tiled Logo](./images/tiled-logo-white.png)
 - [Website](https://www.mapeditor.org/)
@@ -10,6 +11,7 @@
 ## Games
 ### 2D Platformer
 [Repo](https://github.com/TuinderJ/2d_platformer)
+[itch.io page](https://from11.itch.io/2d-platformer)
 ### Top Down RPG
 [Repo](https://github.com/TuinderJ/top-down-rpg)
 #### Assets to choose from
