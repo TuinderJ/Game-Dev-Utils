@@ -10,9 +10,9 @@
 - [Godot 4 Export Doc](https://doc.mapeditor.org/en/stable/manual/export-tscn/)
 ## Games
 ### 2D Platformer
-[Repo](https://github.com/TuinderJ/2d_platformer)
-[itch.io page](https://from11.itch.io/2d-platformer)
+- [Repo](https://github.com/TuinderJ/2d_platformer)
+- [itch.io page](https://from11.itch.io/2d-platformer)
 ### Top Down RPG
-[Repo](https://github.com/TuinderJ/top-down-rpg)
+- [Repo](https://github.com/TuinderJ/top-down-rpg)
 #### Assets to choose from
 - [itch.io collection](https://itch.io/c/4333738/top-down-assets)
