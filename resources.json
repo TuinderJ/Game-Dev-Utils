@@ -1,0 +1,54 @@
+{
+  "links": [
+    {
+      "section": "Random Links",
+      "links": [
+        {
+          "name": "Tilemap Playlist",
+          "url": "https://youtube.com/playlist?list=PLflAYKtRJ7dwtqA0FsZadrQGal8lWp-MM&si=5kzUkRpC9S6TBjYF"
+        },
+        {
+          "name": "Pirate Software Site",
+          "url": "https://develop.games/"
+        }
+      ]
+    },
+    {
+      "section": "Tiled",
+      "links": [
+        {
+          "name": "Website",
+          "url": "https://www.mapeditor.org/"
+        },
+        {
+          "name": "Playlist",
+          "url": "https://youtube.com/playlist?list=PLu4oc9P-ABcOXNOyoAvnMyUwn_kkiVA5B&si=6nQdTHW485QVvASw"
+        },
+        {
+          "name": "Docs",
+          "url": "https://doc.mapeditor.org/en/stable/"
+        },
+        {
+          "name": "Godot 4 Export Doc",
+          "url": "https://doc.mapeditor.org/en/stable/manual/export-tscn/"
+        }
+      ]
+    }
+  ],
+  "games": [
+    {
+      "name": "2D Platformer",
+      "repo": "https://github.com/TuinderJ/2d_platformer",
+      "status": "Finished",
+      "itch.io page": "https://from11.itch.io/2d-platformer"
+    },
+    {
+      "name": "Top Down RPG",
+      "repo": "https://github.com/TuinderJ/top-down-rpg",
+      "status": "In Progress",
+      "misc": {
+        "Assets To Choose From": "https://itch.io/c/4333738/top-down-assets"
+      }
+    }
+  ]
+}
